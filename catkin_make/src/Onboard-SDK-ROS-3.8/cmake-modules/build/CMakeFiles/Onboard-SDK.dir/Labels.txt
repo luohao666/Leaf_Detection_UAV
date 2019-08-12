@@ -1,0 +1,13 @@
+# Target labels
+ Onboard-SDK
+# Source files and their labels
+/home/dji/catkin_make/src/Onboard-SDK-ROS-3.8/cmake-modules/build/CMakeFiles/Onboard-SDK
+/home/dji/catkin_make/src/Onboard-SDK-ROS-3.8/cmake-modules/build/CMakeFiles/Onboard-SDK.rule
+/home/dji/catkin_make/src/Onboard-SDK-ROS-3.8/cmake-modules/build/CMakeFiles/Onboard-SDK-complete.rule
+/home/dji/catkin_make/src/Onboard-SDK-ROS-3.8/cmake-modules/build/Onboard-SDK-prefix/src/Onboard-SDK-stamp/Onboard-SDK-install.rule
+/home/dji/catkin_make/src/Onboard-SDK-ROS-3.8/cmake-modules/build/Onboard-SDK-prefix/src/Onboard-SDK-stamp/Onboard-SDK-mkdir.rule
+/home/dji/catkin_make/src/Onboard-SDK-ROS-3.8/cmake-modules/build/Onboard-SDK-prefix/src/Onboard-SDK-stamp/Onboard-SDK-download.rule
+/home/dji/catkin_make/src/Onboard-SDK-ROS-3.8/cmake-modules/build/Onboard-SDK-prefix/src/Onboard-SDK-stamp/Onboard-SDK-update.rule
+/home/dji/catkin_make/src/Onboard-SDK-ROS-3.8/cmake-modules/build/Onboard-SDK-prefix/src/Onboard-SDK-stamp/Onboard-SDK-patch.rule
+/home/dji/catkin_make/src/Onboard-SDK-ROS-3.8/cmake-modules/build/Onboard-SDK-prefix/src/Onboard-SDK-stamp/Onboard-SDK-configure.rule
+/home/dji/catkin_make/src/Onboard-SDK-ROS-3.8/cmake-modules/build/Onboard-SDK-prefix/src/Onboard-SDK-stamp/Onboard-SDK-build.rule

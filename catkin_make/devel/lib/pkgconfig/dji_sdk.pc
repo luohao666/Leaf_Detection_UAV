@@ -1,0 +1,8 @@
+prefix=/home/dji/catkin_make/devel
+
+Name: dji_sdk
+Description: Description of dji_sdk
+Version: 3.2.0
+Cflags: -I/home/dji/catkin_make/devel/include -I/home/dji/catkin_make/src/Onboard-SDK-ROS-3.8/dji_sdk/include
+Libs: -L/home/dji/catkin_make/devel/lib 
+Requires: message_runtime geometry_msgs nav_msgs std_msgs nmea_msgs
